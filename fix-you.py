@@ -23,7 +23,7 @@ def sing_song():
         ("Tears stream down your face, and I", 0.15),
         ("Tears stream down your face", 0.15),
         ("I promise you I will learn from my mistakes", 0.10),
-        ("Tears stream down your face, and I......gi", 0.20),
+        ("Tears stream down your face, and I......", 0.20),
     ]
     delays = [4.5, 1.5, 2.6, 8.2, 2.3, 3]
     
